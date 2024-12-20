@@ -60,8 +60,6 @@ In the case of a volatility spike, the portfolio faces higher levels of risk, wi
 
 This analysis provides a comprehensive view of the CPSE ETF portfolio’s potential behavior under different market shocks. By utilizing Monte Carlo simulation, we can estimate the **probability distribution** of portfolio returns and assess the risk through **Value at Risk (VaR)**, helping guide **risk management strategies** for investors. This approach can be particularly valuable for portfolios with exposure to the energy sector, where volatility can be high and market shocks can have a significant impact.
 
-## Data Used  
-- <a href="https://github.com/NikhilChoudhary-93/Road-Safety-Analytics-Project/blob/main/Road%20Accident%20Data.csv">Dataset</a>
 
 ## Contact  
 For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/nikhil-choudhary-6163a8263/).
